@@ -1,3 +1,4 @@
+import Foundation
 import Pathman
 
 var unusedStreams = Set<FileStream>()

@@ -12,7 +12,7 @@ let package = Package(
     ],
     dependencies: [
         .package(url: "https://github.com/apple/swift-log.git", from: "1.0.0"),
-        .package(url: "https://github.com/Ponyboy47/Pathman.git", from: "0.20.1"),
+        .package(url: "https://github.com/BerndOberthuer/Pathman.git", from: "0.9.0"),
     ],
     targets: [
         // Targets are the basic building blocks of a package. A target can define a module or a test suite.
